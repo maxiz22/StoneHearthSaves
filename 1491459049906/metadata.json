@@ -1,0 +1,20 @@
+{
+	"name" : "",
+	"town_name" : "Seff Khalrabry",
+	"game_date" : {
+		"day" : 2,
+		"month" : 4,
+		"year" : 1000,
+		"hour" : 18,
+		"minute" : 23
+	},
+	"timestamp" : 1491459049906,
+	"time" : "4/6/2017, 3:10:49 AM",
+	"jobs" : {
+		"crafters" : 8,
+		"workers" : 12,
+		"soldiers" : 0
+	},
+	"version" : "0.21.0.3349",
+	"save_version" : 12
+}

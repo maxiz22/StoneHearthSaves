@@ -1,0 +1,20 @@
+{
+	"name" : "",
+	"town_name" : "Fragata",
+	"game_date" : {
+		"day" : 13,
+		"month" : 3,
+		"year" : 1000,
+		"hour" : 15,
+		"minute" : 51
+	},
+	"timestamp" : 1492302539302,
+	"time" : "4/15/2017, 9:28:59 PM",
+	"jobs" : {
+		"crafters" : 7,
+		"workers" : 4,
+		"soldiers" : 9
+	},
+	"version" : "0.21.0.3349",
+	"save_version" : 12
+}
